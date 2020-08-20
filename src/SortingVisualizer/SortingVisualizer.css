@@ -1,0 +1,15 @@
+.array-container {
+  text-align: center;
+  padding-top: 150px;
+}
+  
+.array-bar {
+  width: 5px;     
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.button {
+  margin: 4px;
+}
+
